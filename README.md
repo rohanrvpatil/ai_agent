@@ -1,9 +1,10 @@
 ## AI agent for sentiment analysis on Rotten Tomatoes dataset:
 
 ![ai_agent_training](https://github.com/rohanrvpatil/ai_agent/assets/42604817/e58e1c2e-db07-4a4a-81bf-bc4f00628a06)
+
 *Training of the model*
 
-Dataset link - (https://huggingface.co/datasets/rotten_tomatoes)
+Dataset link - https://huggingface.co/datasets/rotten_tomatoes
 ### 1. Introduction
 The sentiment analysis project aims to develop a machine learning model capable of classifying the sentiment (positive or negative) of text data, particularly movie reviews. The project utilizes deep learning techniques, specifically Long Short-Term Memory (LSTM) networks, to perform sentiment analysis on textual input.
 
